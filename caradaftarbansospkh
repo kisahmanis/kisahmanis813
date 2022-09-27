@@ -13,7 +13,7 @@
     ],
     "unity": [
       {
-        "mode_tes": false,
+        "mode_tes": true,
         "idapp": "",
         "banner": "Banner_Android",
         "inter": "Interstitial_Android"
