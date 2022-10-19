@@ -13,7 +13,7 @@
     ],
     "unity": [
       {
-        "mode_tes": false,
+        "mode_tes": true,
         "idapp": "3896203",
         "banner": "Banner",
         "inter": "Interstitial"
