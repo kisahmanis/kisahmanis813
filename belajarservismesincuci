@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -42,9 +42,9 @@
 
 "STARTAPPID" : "kosong",
 
-"ADMOB_BANNER" : "kososng",
-"ADMOB_INTER" : "kosong",
-"ADMOB_NATIV" : "kosong",
+"ADMOB_BANNER" : "ca-app-pub-7373612414698173/8834636088",
+"ADMOB_INTER" : "ca-app-pub-7373612414698173/4624800473",
+"ADMOB_NATIV" : "ca-app-pub-7373612414698173/3120147111",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
