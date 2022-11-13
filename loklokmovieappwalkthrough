@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "https://loklokmovieappwalkthrough.blogspot.com",
+"HOMEURL" : "https://loklok.com",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Server Ready . . .",
@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -26,11 +26,11 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
+"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
-"INTER_COUNT" : "10",
+"INTER_COUNT" : "5",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -64,7 +64,7 @@
 "UNITY_GAME_ID" : "",
 
 "APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "6e8c93ff48c117ac",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
